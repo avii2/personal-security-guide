@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "personal-security-guide",
+  "short_name": "Personal Security Guide",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#5616c6",
+  "description": "Personal Security Guide by Anil Kumar"
+}
